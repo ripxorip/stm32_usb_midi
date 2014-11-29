@@ -3,7 +3,7 @@
  * @author Philip Karlsson
  * @version V1.0.0
  * @date 29-November-2014
- * @brief This file contains a simple example usage of midi device new class.
+ * @brief This file contains a simple example usage of the new midi device class.
  *
  */
 
